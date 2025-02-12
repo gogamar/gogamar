@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm a **Fullstack Web Developer** passionate about building applications that make life easier and work more efficient. My focus is on creating scalable and user-friendly applications.
+I like building applications that make life easier and work more efficient. My focus is on creating user-friendly applications.
 
 #### 💻 Tech Stack:
 - **Backend:** Ruby on Rails, Node.js  
